@@ -85,16 +85,21 @@ football_data/Football-players-Stats.csv: Windows-1252 with confidence 0.7294248
  <img width="405" alt="스크린샷 2022-08-18 오전 11 47 20" src="https://user-images.githubusercontent.com/58887561/185282516-307cb66b-7d88-457d-92a4-bff583c6ad55.png">
  
  ### 시각화
+ 
+ * 히스토그램 
+
  <img width="984" alt="스크린샷 2022-08-18 오후 12 34 38" src="https://user-images.githubusercontent.com/58887561/185287558-2ac54747-faee-4f55-907c-e32e945d1a61.png">
  <img width="990" alt="스크린샷 2022-08-18 오후 12 34 49" src="https://user-images.githubusercontent.com/58887561/185287577-2fac89e4-9eed-40b3-bcbb-b2d549015c16.png">
 
+ <img width="631" alt="스크린샷 2022-08-18 오후 12 43 24" src="https://user-images.githubusercontent.com/58887561/185288533-23578aac-aabd-4702-a1b3-e900ee9b5587.png">
+
+
+ * 산점도
  
+ #### 나이에 따른 골 결과
  
- 
- 
- 
- 
- 
+ <img width="586" alt="스크린샷 2022-08-18 오후 12 47 22" src="https://user-images.githubusercontent.com/58887561/185289118-39868906-965a-42dc-9ac9-3d393475fbee.png">
+
  
  
  
