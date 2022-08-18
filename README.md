@@ -69,6 +69,32 @@ ___
  * npxG : 패널티 골을 제외한 각 90분간의 예상 골 수
  
  * npxG+xA : 패널티 골을 제외한 각 90분간의 예상 골과 어시스트 수
+
+___
+
+### !chardetect football_data/Football-players-Stats.csv
+
+football_data/Football-players-Stats.csv: Windows-1252 with confidence 0.7294248518046071
+
+인코딩 방식 = Windows-1252
+
+### football.head()
+ <img width="985" alt="스크린샷 2022-08-18 오전 11 47 11" src="https://user-images.githubusercontent.com/58887561/185282391-eca25bbc-5f94-42ca-bac5-4758dcd9629a.png">
+
+ ### football.info()
+ <img width="405" alt="스크린샷 2022-08-18 오전 11 47 20" src="https://user-images.githubusercontent.com/58887561/185282516-307cb66b-7d88-457d-92a4-bff583c6ad55.png">
+ 
+ ### 시각화
+ <img width="984" alt="스크린샷 2022-08-18 오후 12 34 38" src="https://user-images.githubusercontent.com/58887561/185287558-2ac54747-faee-4f55-907c-e32e945d1a61.png">
+ <img width="990" alt="스크린샷 2022-08-18 오후 12 34 49" src="https://user-images.githubusercontent.com/58887561/185287577-2fac89e4-9eed-40b3-bcbb-b2d549015c16.png">
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
